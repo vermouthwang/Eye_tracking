@@ -1,0 +1,9 @@
+Best lambda: 0.019306977288832496
+Scoring weights: x_weight=0.5, y_weight=2.5
+Score (x_weight*x_mean + y_weight*y_mean): 0.5791675226657562
+x_err: {'median': 0.07769726879438943, 'mean': 0.07379970468266651, 'max': 0.12154941727104407, 'p90': 0.1164664051664149}
+y_err: {'median': 0.17968933563839443, 'mean': 0.21690706812976918, 'max': 0.62979186855744, 'p90': 0.4201969191278745}
+r2x: 0.9939, r2y: 0.9602
+Intermediate models dir: lambda_search/trials_Michael_regression_model
+Summary CSV: lambda_search/Michael_regression_model_lambda_search_summary.csv
+Final model saved to: Michael_regression_model_lam0.019306977288832496.json
